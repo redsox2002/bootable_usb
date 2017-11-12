@@ -2,7 +2,7 @@
 
 This shell script allows you to create a bootable USB from an .iso of your choosing on your Mac.
 
-These instructions were derived from the guide (here)[https://www.tonymacx86.com/threads/how-to-create-a-bootable-windows-10-usb-in-os-x-using-terminal.172458/]
+These instructions were derived from the guide [here](https://www.tonymacx86.com/threads/how-to-create-a-bootable-windows-10-usb-in-os-x-using-terminal.172458/)
 
 ### Usage:
 1. Run `./bootable_usb.sh`
