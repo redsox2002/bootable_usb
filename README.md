@@ -8,4 +8,5 @@ These instructions were derived from the guide [here](https://www.tonymacx86.com
 1. Run `./bootable_usb.sh`
 2. Type in which disk you want to create the bootable usb from
 3. Enter the location of your .iso
-4. Profit! 
+4. Enter your password for your Mac
+5. Wait about 20-30 minutes and Profit! 
